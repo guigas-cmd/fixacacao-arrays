@@ -1,0 +1,1 @@
+Implementações em Java focadas em manipulação de arrays e construção de lógica, trabalhando com iteração, validação e tratamento de dados. Projeto usado para consolidar fundamentos essenciais e melhorar a organização e clareza do código.
